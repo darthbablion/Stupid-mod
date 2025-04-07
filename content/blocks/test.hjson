@@ -6,6 +6,6 @@ targetable: false
 health: 490
 damage: 50
 flashHit: true
-category: defense 
+category: miscellaneous 
 requirements: [ 
 sand/1 ]
