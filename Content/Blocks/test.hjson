@@ -1,0 +1,11 @@
+name: test
+description: this thing gets nuclear
+type:  Wall
+size: 2
+targetable: false
+health: 490
+baseExplosiveness: 10000
+flashHit: true
+category: defense 
+requirements: [ 
+sand/1 ]
