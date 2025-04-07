@@ -1,5 +1,5 @@
-name: test
-description: this thing gets nuclear
+name: cake
+description: is it a lie?
 type:  Wall
 size: 2
 targetable: false
