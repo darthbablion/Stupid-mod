@@ -4,7 +4,7 @@ type:  Wall
 size: 2
 targetable: false
 health: 490
-baseExplosiveness: 10000
+damage: 50
 flashHit: true
 category: defense 
 requirements: [ 
