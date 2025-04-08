@@ -9,8 +9,8 @@ soundVolume: 200
 shake: 100
 health: 10000
 range: 9000
-shootfirstShotDelay: 2000
-chargeTime: 2000
+shootfirstShotDelay: 1000
+chargeTime: 1000
 chargeEffect:land shock
 chargeSound: eletric 
 moveWhileCharging: false
