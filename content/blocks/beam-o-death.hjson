@@ -26,7 +26,7 @@ drawer: {
       outline: false
       blending: additive 
       suffix:  -glow
-      colors: [004d66,1de051]
+      colors: 004d66
     }
   ]
 }
