@@ -10,7 +10,7 @@ shake: 100
 health: 10000
 range: 9000
 shotDelay: 200
-chargeEffect: {}
+chargeEffect: {magmasmoke}
 consumes: {
   power: 260
   coolant: {
@@ -26,7 +26,7 @@ drawer: {
       outline: false
       blending: additive 
       suffix:  -glow
-      color: 004d66
+      color: 004d66,1de051
     }
   ]
 }
