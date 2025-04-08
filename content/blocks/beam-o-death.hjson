@@ -52,7 +52,7 @@ shoot: {
  firstShotDelay: 2000
 chargeTime: 2000
 chargeEffect: Land Shock
-chargesound: Electric 
+chargesound: electric 
 moveWhileCharging: false
 }
 category: turret
