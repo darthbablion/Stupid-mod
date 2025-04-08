@@ -7,7 +7,6 @@ size: 2
 targetable: false
 health: 490
 damage: 50
-flashHit: true
 category: defense
 requirements: [ 
 sand/1 ]
