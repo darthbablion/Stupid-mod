@@ -10,8 +10,8 @@ chargeSound: charge-sound
 shake: 100
 health: 10000
 range: 9000
-minWarmup: 2000
-warmupMaintainTime:2000
+minWarmup: 900
+warmupMaintainTime:900
 shotDelay: 2000
 chargeEffect:land shock
 lifetime:200
