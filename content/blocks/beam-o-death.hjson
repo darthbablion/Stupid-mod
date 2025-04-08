@@ -9,6 +9,8 @@ soundVolume: 200
 shake: 100
 health: 10000
 range: 9000
+minWarmup: 2000
+warmupReatainTime:2000
 shotDelay: 2000
 chargeEffect:land shock
 lifetime:200
