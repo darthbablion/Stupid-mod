@@ -1,5 +1,5 @@
 name: Beam of death
-description: will kindly tell anyting to stop  exsiting from quite litteraly anywhere allso sprite credits go  to hunnimbus4
+description: will kindly obliterate anything in the beams path except for your stuff allso sprite credits go  to hunnimbus4
 type: LaserTurret 
 size: 5
 liquidCapacity: 1000
@@ -32,7 +32,7 @@ drawer: {
 }
 rotateSpeed: 5
 reload: 20000
-recoil: 100
+recoil: 2
 shoot: {
   type: Shoot
   shots: 1
