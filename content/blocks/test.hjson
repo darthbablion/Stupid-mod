@@ -1,6 +1,6 @@
 name: cake
 description: is it a lie?
-type:  Wall
+type:  Defense block
 size: 2
 targetable: false
 health: 490
