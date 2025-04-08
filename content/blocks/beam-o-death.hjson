@@ -9,11 +9,7 @@ soundVolume: 200
 shake: 100
 health: 10000
 range: 9000
-shootfirstShotDelay: 1000
-chargeTime: 1000
-chargeEffect:land shock
-chargeSound: eletric 
-moveWhileCharging: false
+shotDelay: 1000
 lifetime:200
 consumes: {
   power: 260
@@ -34,9 +30,9 @@ drawer: {
     }
   ]
 }
-rotateSpeed: 3
+rotateSpeed: 5
 reload: 20000
-recoil: 0
+recoil: 100
 shoot: {
   type: Shoot
   shots: 1
