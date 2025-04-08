@@ -9,7 +9,6 @@ soundVolume: 200
 shake: 100
 health: 10000
 range: 9000
-shotDelay: 1000
 lifetime:200
 consumes: {
   power: 260
@@ -47,6 +46,14 @@ shootType: {
   width: 32
   colors: [4d94ff,76d8ff, 77bdd9
   ]
+}
+shoot: {
+ type: ShootPattern
+ firstShotDelay: 2000
+chargeTime: 2000
+chargeEffect: Land Shock
+chargesound: Electric 
+moveWhileCharging: false
 }
 category: turret
 requirements: [
