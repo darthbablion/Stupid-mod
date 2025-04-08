@@ -5,7 +5,7 @@ size: 5
 liquidCapacity: 1000
 shootDuration:  200
 shootSound: laserbig
-soundVolume: 200000000
+soundVolume: 200
 shake: 100
 health: 10000
 range: 9000
