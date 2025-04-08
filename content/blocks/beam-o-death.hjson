@@ -6,12 +6,12 @@ liquidCapacity: 1000
 shootDuration:  200
 shootSound: laserbig
 soundVolume: 200
-chargeSound: charge-sound
 shake: 100
 health: 10000
 range: 9000
 shotDelay: 2000
 chargeEffect:land shock
+chargeSound: eletric 
 moveWhileCharging: false
 lifetime:200
 consumes: {
