@@ -9,6 +9,7 @@ soundVolume: 200000000
 shake: 100
 health: 10000
 range: 9000
+shotDelay: 200
 consumes: {
   power: 260
   coolant: {
