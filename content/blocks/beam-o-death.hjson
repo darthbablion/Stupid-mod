@@ -10,12 +10,12 @@ shake: 100
 health: 10000
 range: 9000
 shotDelay: 200
-chargeEffect: magmasmoke
+chargeEffect:land shock
 consumes: {
   power: 260
   coolant: {
     type: ConsumeCoolant
-    amount: 50
+    amount: 100
   }
 }
 drawer: {
