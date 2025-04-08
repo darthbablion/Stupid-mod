@@ -11,6 +11,7 @@ health: 10000
 range: 9000
 shotDelay: 2000
 chargeEffect:land shock
+lifetime:200
 consumes: {
   power: 260
   coolant: {
