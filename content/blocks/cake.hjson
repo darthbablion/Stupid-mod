@@ -2,7 +2,7 @@ name: cake
 description: is it a lie?
 type:  wall
 solid: false
-destroyBullet: 
+destroyBullet: {}
 size: 2
 targetable: false
 health: 490
