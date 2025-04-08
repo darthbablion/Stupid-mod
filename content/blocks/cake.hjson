@@ -1,11 +1,12 @@
 name: cake
 description: is it a lie?
-type:  Defenseblock
+type:  wall
+destroyBullet: 
 size: 2
 targetable: false
 health: 490
 damage: 50
 flashHit: true
-category: miscellaneous 
+category: defense
 requirements: [ 
 sand/1 ]
