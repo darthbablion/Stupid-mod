@@ -30,7 +30,7 @@ drawer: {
     }
   ]
 }
-rotateSpeed: 10
+rotateSpeed: 3
 reload: 20000
 recoil: 0
 shoot: {
