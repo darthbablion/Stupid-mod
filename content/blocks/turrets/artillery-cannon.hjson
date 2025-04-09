@@ -6,8 +6,10 @@ range: 350
 maxAmmo: 1
 ammoPerShot: 1
 inaccuracy: 50
+targetAir: false
 minRange: 100
-shootType:{ ArtilleryBulletType }
+shootType:{ ArtilleryBulletType 
+}
 consumes: sand
 category:turret
 requirements:[ sand/1 ]
