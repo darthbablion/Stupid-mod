@@ -7,3 +7,4 @@ ammoPerShot: 1
 inaccuracy: 50
 minRange: 100
 consumes: sand
+category:turret
