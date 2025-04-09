@@ -1,12 +1,11 @@
-name: cake
-description: is it a lie?
-type:  wall
-solid: false
+name: cake?
+description: A fast cake that most definitly isn't a lie or is it.
+type: Groundunit
 destroyBullet:{}
 size: 2
-targetable: false
-health: 490
-damage: 50
-category: defense
+health: 50
+maxVelocity: 10
+speed: 2
+damage: 
 requirements: [ 
 sand/1 ]
