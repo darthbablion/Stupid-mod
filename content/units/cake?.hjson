@@ -1,0 +1,11 @@
+name: cake?
+description: A fast cake that most definitly isn't a lie or is it.
+type: Groundunit
+destroyBullet:{}
+size: 2
+health: 50
+maxVelocity: 10
+speed: 2
+damage: 
+requirements: [ 
+sand/1 ]
