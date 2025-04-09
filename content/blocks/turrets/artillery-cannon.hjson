@@ -10,6 +10,7 @@ ammoPerShot: 1
 inaccuracy: 50
 targetAir: false
 minRange: 100
+shotDelay:1000
 ammoTypes:{ 
 sand:{
 type:ArtilleryBulletType
