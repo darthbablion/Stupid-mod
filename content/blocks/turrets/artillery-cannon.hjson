@@ -1,3 +1,8 @@
 name: Artillery cannon
 description: A cheap longrange cannon meant for spam to make it rain hell. 
 type: itemTurret
+range: 350
+maxAmmo: 1
+ammoPerShot: 1
+inaccuracy: 50
+minRange: 100
