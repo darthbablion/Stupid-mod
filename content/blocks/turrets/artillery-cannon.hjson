@@ -3,6 +3,7 @@ description: A cheap longrange cannon meant for spam to make it rain hell.
 type: itemTurret
 size: 2
 rotateSpeed:10
+impact: true
 reload:1001
 range: 500
 maxAmmo: 50
