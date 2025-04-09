@@ -5,7 +5,7 @@ size: 2
 rotateSpeed:10
 relode:20
 range: 350
-maxAmmo: 1
+maxAmmo: 50
 ammoPerShot: 1
 inaccuracy: 50
 targetAir: false
