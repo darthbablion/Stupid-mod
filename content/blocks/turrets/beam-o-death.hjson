@@ -1,0 +1,57 @@
+name: Beam of death
+description: will kindly obliterate anything in the beams path except for your stuff allso sprite credits go  to hunnimbus4
+type: laserTurret
+size: 5
+liquidCapacity: 1000
+shootDuration:  200
+shootSound: laserbig
+shake: 100
+health: 10000
+range: 9000
+lifetime:200
+consumes: {
+  power: 260
+  coolant: {
+    type: ConsumeCoolant
+    amount: 100
+  }
+}
+drawer: {
+  type: DrawTurret
+  parts: [
+    {
+      type: RegionPart
+      outline: false
+      blending: additive 
+      suffix:  -glow
+      color: 004d66
+    }
+  ]
+}
+rotateSpeed: 5
+reload: 20000
+recoil: 5
+shoot: {
+  type: Shoot
+  shots: 1
+}
+shootType: {
+  type: ContinuousLaserBulletType
+  absorbable: false
+  hitSize:32
+  damage: 9000
+  lifetime: 15
+  fadeTime: 10
+  length: 30000
+  width: 32
+  colors: [4d94ff,76d8ff, 77bdd9
+  ]
+}
+category: turret
+requirements: [
+  copper/1600
+  lead/600
+  graphite/460
+  silicon/500
+  surge-alloy/420
+]
