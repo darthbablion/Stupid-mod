@@ -15,7 +15,7 @@ ammoTypes:{
 sand:{
 type:ArtilleryBulletType
 lifetime: 2000
-speed:100
+speed:10
 damage:50
 }
 }
