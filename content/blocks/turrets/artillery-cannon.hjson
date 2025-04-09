@@ -7,6 +7,7 @@ maxAmmo: 1
 ammoPerShot: 1
 inaccuracy: 50
 minRange: 100
+shootType
 consumes: sand
 category:turret
 requirements:[ sand/1 ]
