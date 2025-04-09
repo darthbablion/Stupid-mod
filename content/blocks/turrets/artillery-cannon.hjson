@@ -8,3 +8,4 @@ inaccuracy: 50
 minRange: 100
 consumes: sand
 category:turret
+requirements:[ sand/1]
