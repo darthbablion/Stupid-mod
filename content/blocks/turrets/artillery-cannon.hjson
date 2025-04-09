@@ -10,8 +10,8 @@ ammoPerShot: 1
 inaccuracy: 50
 targetAir: false
 minRange: 100
-shootType:{ ArtilleryBulletType 
-shootEffect:[smokePuff] }
+shootType:{ ArtilleryBulletType }
+shootEffect:{ smokePuff }
 consumes: sand
 category:turret
 requirements:[ sand/1 ]
