@@ -1,11 +1,10 @@
 name: Beam of death
 description: will kindly obliterate anything in the beams path except for your stuff allso sprite credits go  to hunnimbus4
-type: LaserTurret 
+type: PowerTurret
 size: 5
 liquidCapacity: 1000
 shootDuration:  200
 shootSound: laserbig
-soundVolume: 200
 shake: 100
 health: 10000
 range: 9000
@@ -37,7 +36,10 @@ shoot: {
   shots: 1
 }
 shootType: {
-  type: ContinuousLaserBulletType
+  type: LaserBulletType
+  pierce: true
+  PierceBuilding: true
+  absorbable: false
   hitSize:32
   damage: 9000
   lifetime: 15
