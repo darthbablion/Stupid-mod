@@ -8,7 +8,7 @@ reload:1001
 range: 500
 maxAmmo: 50
 ammoPerShot: 1
-inaccuracy: 50
+inaccuracy: 10
 targetAir: false
 minRange: 100
 ammoTypes:{ 
