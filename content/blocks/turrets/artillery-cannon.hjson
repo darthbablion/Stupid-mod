@@ -10,8 +10,13 @@ ammoPerShot: 1
 inaccuracy: 50
 targetAir: false
 minRange: 100
-shootType:{ 
-type:ArtilleryBulletType 
+ammoTypes:{ 
+sand:{
+type:ArtilleryBulletType
+lifetime: 100
+speed:100
+damage:50
+}
 }
 shootEffect:smokePuff 
 consumes: sand
