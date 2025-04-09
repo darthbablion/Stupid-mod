@@ -17,6 +17,7 @@ type:ArtilleryBulletType
 lifetime: 2000
 speed:10
 damage:50
+scale:10
 }
 }
 shootEffect:smokePuff 
