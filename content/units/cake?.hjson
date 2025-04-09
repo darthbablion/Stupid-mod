@@ -6,6 +6,4 @@ size: 2
 health: 50
 maxVelocity: 10
 speed: 2
-damage: 
-requirements: [ 
-sand/1 ]
+damage: 10
