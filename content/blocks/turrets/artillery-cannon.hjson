@@ -14,7 +14,7 @@ minRange: 100
 ammoTypes:{ 
 sand:{
 type:ArtilleryBulletType
-lifetime: 100
+lifetime: 2000
 speed:100
 damage:50
 }
