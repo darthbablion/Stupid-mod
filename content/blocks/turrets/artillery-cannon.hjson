@@ -1,6 +1,7 @@
 name: Artillery cannon
 description: A cheap longrange cannon meant for spam to make it rain hell. 
 type: itemTurret
+ShootSound:Cannonshot
 size: 2
 rotateSpeed:10
 reload:1001
