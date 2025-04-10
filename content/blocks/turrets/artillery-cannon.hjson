@@ -21,7 +21,8 @@ height:10
 width:10
 knockback:35
 impact: true
-splashDamage: 40
+splashDamage: 30
+splashDamageRadius:10.9
 fragOnHit:true
 fragBullets:10
 collidesFloor:true
