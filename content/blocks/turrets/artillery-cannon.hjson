@@ -28,7 +28,8 @@ width:10
 knockback:25
 impact: true
 splashDamage: 30
-splashDamageRadius:10.9
+splashDamageRadius:11
+hitShake:3
 fragBullet: true
 fragOnHit:true
 fragBullets:30
@@ -47,7 +48,9 @@ fragOnHit:true
 fragBullets:10
 }
 fragBullet:{
-type:ExplosionBulletType
+type:ShrapnelBulletType
+shooteffect:fireSmoke
+hitEffect:fireSmoke
 }
 collidesFloor:true
 collidesGround:true
