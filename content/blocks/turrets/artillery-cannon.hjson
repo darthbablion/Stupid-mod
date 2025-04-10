@@ -13,10 +13,11 @@ minRange: 100
 ammoTypes:{ 
 sand:{
 type:ArtilleryBulletType
+scaleLife: false
 lifetime: 2000
 speed:10
 damage:50
-scale:20
+scale:50
 knockback:35
 impact: true
 splashDamage: 40
