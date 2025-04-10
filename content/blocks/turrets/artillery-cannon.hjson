@@ -45,11 +45,8 @@ height:10
 width:5
 damage:20
 shootEffect:fireSmoke
-color:5b5e5c
 hitEffect:fireSmoke
-color:4a4d4b
 despawnEffect:fireSmoke
-color:282928
 }
 collidesFloor:true
 collidesGround:true
