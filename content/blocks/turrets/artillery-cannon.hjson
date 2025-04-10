@@ -44,13 +44,12 @@ speed:5
 height:10
 width:5
 damage:20
-fragOnHit:true
-fragBullets:10
-}
-fragBullet:{
-type:ShrapnelBulletType
 shootEffect:fireSmoke
+color:5b5e5c
 hitEffect:fireSmoke
+color:4a4d4b
+despawnEffect:fireSmoke
+color:282928
 }
 collidesFloor:true
 collidesGround:true
