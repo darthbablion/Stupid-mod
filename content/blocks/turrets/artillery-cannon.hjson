@@ -23,7 +23,8 @@ impact: true
 splashDamage: 40
 fragOnHit:true
 fragBullets:10
-collideFloor:true
+collidesFloor:true
+collidesGround:true
 }
 }
 shootEffect:smokePuff 
