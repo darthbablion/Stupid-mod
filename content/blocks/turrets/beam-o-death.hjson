@@ -1,9 +1,10 @@
 name: Beam of death
-description: will kindly obliterate anything in the beams path except for your stuff allso sprite credits go  to hunnimbus4
+description: will kindly obliterate anything in the beams path except for your stuff allso sprite credits go  to hunnimbus4 ps may consume your entire power grid when it fires depending on how much energy you make
 type: laserTurret
 size: 5
 liquidCapacity: 1000
-shootDuration:  200
+shootDuration:  1000
+shotDelay:2000
 shootSound: laserbig
 shake: 100
 health: 10000
@@ -13,7 +14,7 @@ consumes: {
   power: 260
   coolant: {
     type: ConsumeCoolant
-    amount: 100
+    amount: 30
   }
 }
 drawer: {
@@ -40,7 +41,7 @@ shootType: {
   absorbable: false
   hitSize:32
   damage: 9000
-  lifetime: 15
+  lifetime: 200
   fadeTime: 10
   length: 30000
   width: 32
