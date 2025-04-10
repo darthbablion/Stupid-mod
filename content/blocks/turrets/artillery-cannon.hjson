@@ -17,7 +17,7 @@ scaleLife: false
 lifetime: 2000
 speed:10
 damage:50
-height:20
+height:10
 width:10
 knockback:35
 impact: true
