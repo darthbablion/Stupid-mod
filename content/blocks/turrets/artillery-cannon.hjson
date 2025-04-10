@@ -32,7 +32,6 @@ splashDamageRadius:11
 hitShake:3
 hitEffect:{
 particles:15
-regin:circle
 sizeFrom:17
 sizeTo:0
 particleLife:25
@@ -55,8 +54,8 @@ speed:5
 height:10
 width:5
 damage:20
-shootEffect:{ particles:10
-regin:circle
+shootEffect:{ 
+particles:10
 sizeFrom:15
 sizeTo:0
 particleLife:20
@@ -65,8 +64,8 @@ color:7e827f
 lightScl:0
 lightOpacity:0
 }
-hitEffect:{particles:5
-regin:circle
+hitEffect:{
+particles:5
 sizeFrom:5
 sizeTo:0
 particleLife:15
