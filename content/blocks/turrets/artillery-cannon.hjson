@@ -31,13 +31,15 @@ splashDamage: 30
 splashDamageRadius:11
 hitShake:3
 hitEffect:{
-particles:10
+particles:15
 regin:circle
 sizeFrom:17
 sizeTo:0
 particleLife:25
 fadeMargin:0.4
 color:000000
+lightScl:0
+lightOpacity:0
 }
 fragBullet: true
 fragOnHit:true
@@ -60,14 +62,18 @@ sizeTo:0
 particleLife:20
 fadeMargin:0.6
 color:7e827f
+lightScl:0
+lightOpacity:0
 }
-hitEffect:{particles:10
+hitEffect:{particles:5
 regin:circle
 sizeFrom:5
 sizeTo:0
 particleLife:15
 fadeMargin:0.4
 color:c3c7c4
+lightScl:0
+lightOpacity:0
 }
 }
 collidesFloor:true
