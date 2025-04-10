@@ -19,6 +19,8 @@ damage:50
 scale:20
 knockback:35
 impact: true
+splashDamage: 40
+collideFloor:true
 }
 }
 shootEffect:smokePuff 
