@@ -49,7 +49,7 @@ fragBullets:10
 }
 fragBullet:{
 type:ShrapnelBulletType
-shooteffect:fireSmoke
+shootEffect:fireSmoke
 hitEffect:fireSmoke
 }
 collidesFloor:true
