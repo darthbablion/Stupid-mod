@@ -20,6 +20,8 @@ scale:20
 knockback:35
 impact: true
 splashDamage: 40
+fragOnHit:true
+fragBullets:10
 collideFloor:true
 }
 }
