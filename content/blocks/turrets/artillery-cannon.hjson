@@ -47,8 +47,7 @@ fragOnHit:true
 fragBullets:10
 }
 fragBullet:{
-type:ShrapnelBulletType
-hitEffect:coreBurn
+type:ExplosionBulletType
 }
 collidesFloor:true
 collidesGround:true
