@@ -37,7 +37,7 @@ sizeTo:0
 particleLife:25
 fadeMargin:0.4
 colorFrom:000000
-colorTo:000000
+colorTo:ffffff
 lightScl:0
 lightOpacity:0
 }
@@ -62,7 +62,7 @@ sizeTo:0
 particleLife:20
 fadeMargin:0.6
 colorFrom:7e827f
-colorTo:7e827f
+colorTo:ffffff
 lightScl:0
 lightOpacity:0
 }
@@ -73,7 +73,7 @@ sizeTo:0
 particleLife:15
 fadeMargin:0.4
 colorFrom:c3c7c4
-colorTo:c3c7c4
+colorTo:ffffff
 lightScl:0
 lightOpacity:0
 }
