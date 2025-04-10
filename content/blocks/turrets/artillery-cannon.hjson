@@ -2,6 +2,11 @@ name: Artillery cannon
 description: A cheap longrange cannon meant for spam to make it rain hell. 
 type: itemTurret
 shootSound:cannonshot
+shootEffect:smokePuff 
+minVolume:3
+maxVolume:10
+minPitch:3
+maxPitch:10
 size: 2
 rotateSpeed:10
 reload:1001
@@ -49,7 +54,6 @@ collidesGround:true
 collides: true
 }
 }
-shootEffect:smokePuff 
 consumes: sand
 category:turret
 requirements:[ sand/1 
