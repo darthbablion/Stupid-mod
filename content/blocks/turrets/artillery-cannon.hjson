@@ -25,6 +25,11 @@ splashDamage: 30
 splashDamageRadius:10.9
 fragOnHit:true
 fragBullets:10
+fragRandomSpread:360
+fragVelocityMin:5
+fragVelocityMax:10
+fragLifeMin:20
+fragLifeMax:100
 collidesFloor:true
 collidesGround:true
 collides: true
