@@ -25,12 +25,24 @@ splashDamage: 30
 splashDamageRadius:10.9
 fragBullet: true
 fragOnHit:true
-fragBullets:10
+fragBullets:30
 fragRandomSpread:360
 fragVelocityMin:5
 fragVelocityMax:10
 fragLifeMin:20
 fragLifeMax:100
+fragBullet:{
+type:BulletType
+speed:5
+height:10
+width:5
+damage:20
+fragOnHit:true
+fragBullets:10
+}
+fragBullet:{
+type:ShrapnelBulletType
+}
 collidesFloor:true
 collidesGround:true
 collides: true
