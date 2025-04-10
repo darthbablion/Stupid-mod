@@ -25,6 +25,7 @@ fragOnHit:true
 fragBullets:10
 collidesFloor:true
 collidesGround:true
+collides: true
 }
 }
 shootEffect:smokePuff 
