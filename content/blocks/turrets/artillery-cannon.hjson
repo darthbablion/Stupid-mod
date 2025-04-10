@@ -14,15 +14,16 @@ ammoTypes:{
 sand:{
 type:ArtilleryBulletType
 scaleLife: false
-lifetime: 2000
+lifetime: 50
 speed:10
 damage:50
 height:20
 width:10
-knockback:35
+knockback:10
 impact: true
 splashDamage: 30
 splashDamageRadius:10.9
+fragBullet: true
 fragOnHit:true
 fragBullets:10
 fragRandomSpread:360
