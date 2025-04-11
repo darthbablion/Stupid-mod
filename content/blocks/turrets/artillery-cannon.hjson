@@ -51,6 +51,7 @@ fragLifeMin:20
 fragLifeMax:100
 fragBullet:{
 type:BulletType
+lifetime:25
 speed:5
 height:10
 width:5
