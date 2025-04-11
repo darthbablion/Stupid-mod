@@ -22,7 +22,7 @@ sand:{
 type:ArtilleryBulletType
 scaleLife: false
 lifetime: 50
-speed:0.1
+speed:10
 damage:50
 height:20
 width:10
