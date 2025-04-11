@@ -1,7 +1,8 @@
 name: Artillery cannon
 description: A cheap longrange cannon meant for spam to make it rain hell. 
 type: itemTurret
-shootSound:cannonshot
+shootSound:artilleryfire
+reloadSound:artilleryreload
 shootEffect:smokePuff 
 minVolume:3
 maxVolume:10
@@ -26,6 +27,7 @@ damage:50
 height:20
 width:10
 knockback:25
+bulletHitSound:artilleryhit
 impact: true
 splashDamage: 30
 splashDamageRadius:11
