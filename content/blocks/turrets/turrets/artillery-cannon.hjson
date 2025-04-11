@@ -1,0 +1,92 @@
+name: Artillery cannon
+description: A cheap longrange cannon meant for spam to make it rain hell. 
+type: itemTurret
+shootSound:cannonshot
+shootEffect:smokePuff 
+minVolume:3
+maxVolume:10
+minPitch:3
+maxPitch:10
+size: 2
+rotateSpeed:10
+reload:1001
+range: 500
+maxAmmo: 50
+ammoPerShot: 1
+inaccuracy: 10
+targetAir: false
+minRange: 100
+ammoTypes:{ 
+sand:{
+type:ArtilleryBulletType
+scaleLife: false
+lifetime: 50
+speed:0.1
+damage:50
+height:20
+width:10
+knockback:25
+impact: true
+splashDamage: 30
+splashDamageRadius:11
+hitShake:3
+frontColor:ffffff
+backColor:ffff66
+hitEffect:{
+particles:15
+sizeFrom:17
+sizeTo:0
+particleLife:25
+fadeMargin:0.4
+colorFrom:000000
+colorTo:404040
+lightScl:1
+lightOpacity:1
+}
+fragBullet: true
+fragOnHit:true
+fragBullets:30
+fragRandomSpread:360
+fragVelocityMin:5
+fragVelocityMax:10
+fragLifeMin:20
+fragLifeMax:100
+fragBullet:{
+type:BulletType
+lifetime:25
+speed:5
+height:10
+width:5
+damage:20
+shootEffect:{ 
+particles:10
+sizeFrom:15
+sizeTo:0
+particleLife:20
+fadeMargin:0.6
+colorFrom:808080
+colorTo:666666
+lightScl:1
+lightOpacity:1
+}
+hitEffect:{
+particles:5
+sizeFrom:5
+sizeTo:0
+particleLife:15
+fadeMargin:0.4
+colorFrom:cccccc
+colorTo:a6a6a6
+lightScl:1
+lightOpacity:1
+}
+}
+collidesFloor:true
+collidesGround:true
+collides: true
+}
+}
+consumes: sand
+category:turret
+requirements:[ sand/1 
+]
