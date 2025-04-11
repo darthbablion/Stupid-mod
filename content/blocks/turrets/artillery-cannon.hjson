@@ -38,8 +38,8 @@ particleLife:25
 fadeMargin:0.4
 colorFrom:000000
 colorTo:ffffff
-lightScl:0
-lightOpacity:0
+lightScl:1
+lightOpacity:1
 }
 fragBullet: true
 fragOnHit:true
@@ -63,8 +63,8 @@ particleLife:20
 fadeMargin:0.6
 colorFrom:7e827f
 colorTo:ffffff
-lightScl:0
-lightOpacity:0
+lightScl:1
+lightOpacity:1
 }
 hitEffect:{
 particles:5
@@ -74,8 +74,8 @@ particleLife:15
 fadeMargin:0.4
 colorFrom:c3c7c4
 colorTo:ffffff
-lightScl:0
-lightOpacity:0
+lightScl:1
+lightOpacity:1
 }
 }
 collidesFloor:true
