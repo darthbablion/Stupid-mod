@@ -5,7 +5,7 @@ size: 5
 liquidCapacity: 1000
 shootDuration:  1000
 shotDelay:2000
-shootSound:eletric
+shootSound:laserBig
 shake: 100
 health: 10000
 range: 9000
