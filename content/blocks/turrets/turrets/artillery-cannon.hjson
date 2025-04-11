@@ -26,7 +26,7 @@ damage:50
 height:20
 width:10
 knockback:25
-hitSound:artilleryhit
+hitSound:artilleryexplosion
 impact: true
 splashDamage: 30
 splashDamageRadius:11
