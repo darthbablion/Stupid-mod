@@ -30,6 +30,7 @@ impact: true
 splashDamage: 30
 splashDamageRadius:11
 hitShake:3
+colors:800000
 hitEffect:{
 particles:15
 sizeFrom:17
