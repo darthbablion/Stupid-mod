@@ -1,5 +1,6 @@
 name:Invincible
 desription: This wall is *title card*
+size:2
 targetable:false
 type: Wall
 category: defense 
