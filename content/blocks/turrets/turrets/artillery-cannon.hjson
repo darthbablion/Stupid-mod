@@ -32,7 +32,7 @@ splashDamage: 30
 splashDamageRadius:11
 hitShake:3
 frontColor:ffffff
-backColor:ffff66
+backColor:ff8533
 hitEffect:{
 particles:15
 sizeFrom:17
