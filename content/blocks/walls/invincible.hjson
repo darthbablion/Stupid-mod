@@ -1,9 +1,9 @@
 name:Invincible
+type: Wall
 desription: This wall is *title card*
 size:2
 health:10000000000
 armor:10000000000
-type: Wall
-category: defense 
 placeSound:intresting
 destroySound:sure
+category: defense 
