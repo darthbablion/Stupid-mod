@@ -5,5 +5,5 @@ health:10000000000
 armor:10000000000
 type: Wall
 category: defense 
-placeSound:prettyintresting
+placeSound:intresting
 destroySound:sure
