@@ -3,6 +3,7 @@ description: A cheap longrange cannon meant for spam to make it rain hell it's n
 type: itemTurret
 shootSound:mediumCannon
 shootEffect:smokePuff 
+hasShadow:false
 minVolume:3
 maxVolume:10
 minPitch:3
