@@ -11,3 +11,6 @@ teamPassable:true
 absorbLasers:true
 category: defense 
 sandboxOnly:true
+requirements: [
+ sand/1
+]
