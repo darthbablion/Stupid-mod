@@ -1,5 +1,5 @@
 name:Invincible
-type: Wall
+type: wall
 desription: This wall is *title card*
 size:2
 health:10000000000
