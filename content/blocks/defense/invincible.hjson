@@ -6,7 +6,11 @@ health:10000000000
 armor:10000000000
 placeSound:intresting
 destroySound:sure
+breakSound:sure
+instantBuild:true
+instantDeconstruct:true
+teamPassable:true
+solid:true
+absorbLasers:true
 category: defense 
 sandboxOnly:true
-requirements:[ sand/1 
-]
