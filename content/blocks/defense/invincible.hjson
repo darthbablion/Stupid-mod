@@ -7,3 +7,6 @@ armor:10000000000
 placeSound:intresting
 destroySound:sure
 category: defense 
+sandboxOnly:true
+requirements:[ sand/1 
+]
