@@ -18,7 +18,7 @@ inaccuracy: 10
 targetAir: false
 minRange: 100
 ammoTypes:{ 
-sand:{
+artillery shell:{
 type:ArtilleryBulletType
 scaleLife: false
 lifetime: 50
