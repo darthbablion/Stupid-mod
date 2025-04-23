@@ -29,11 +29,9 @@ width:10
 knockback:25
 hitSound:explosion
 impact: true
-splashDamage: 30
+splashDamage: 10
 splashDamageRadius:11
 hitShake:3
-frontColor:ffffff
-backColor:ff8533
 hitEffect:{
 particles:15
 sizeFrom:17
@@ -47,7 +45,7 @@ lightOpacity:1
 }
 fragBullet: true
 fragOnHit:true
-fragBullets:30
+fragBullets:10
 fragRandomSpread:360
 fragVelocityMin:5
 fragVelocityMax:10
@@ -59,7 +57,7 @@ lifetime:25
 speed:5
 height:10
 width:5
-damage:20
+damage:5
 shootEffect:{ 
 particles:10
 sizeFrom:15
