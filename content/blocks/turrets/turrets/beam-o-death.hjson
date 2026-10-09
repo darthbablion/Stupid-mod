@@ -6,6 +6,7 @@ liquidCapacity: 1000
 shootDuration:  1000
 shotDelay:2000
 shootSound:shootTitan
+shootSoundVolume:10
 shake: 100
 health: 10000
 range: 9000
