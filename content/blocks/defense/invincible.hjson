@@ -10,7 +10,7 @@ breakSound:omni
 teamPassable:true
 absorbLasers:true
 category: defense 
-sandboxOnly:true
+builsVisibility:sandboxOnly
 requirements: [
  sand/1
 ]
